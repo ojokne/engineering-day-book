@@ -37,11 +37,13 @@
 - https://github.com/BlueWallet/BlueWallet/pull/8086#pullrequestreview-3243132613
 
 *Non highlights*
+- Learnt the difference between shims and polyfills.
 
 *End of day*
 - Most urgent tasks include
   - Writing the article about my bitcoin journey
   - Finalizing the engineering process document
-  - Completing the draft PR https://github.com/BlueWallet/BlueWallet/pull/7991
+  - Submit form for monthly report
+  - Completing the draft PR https://github.com/BlueWallet/BlueWallet/pull/7991 that is supposed to fix this https://github.com/BlueWallet/BlueWallet/issues/7662
 
 
