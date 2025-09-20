@@ -47,3 +47,17 @@
   - Completing the draft PR https://github.com/BlueWallet/BlueWallet/pull/7991 that is supposed to fix this https://github.com/BlueWallet/BlueWallet/issues/7662
 
 
+# Saturday 20 September 2025
+
+*Highlight*
+- Looked at draft PR https://github.com/BlueWallet/BlueWallet/pull/7991 to understand work already written
+- Asked a question whether all instances of Buffer should be replaced https://github.com/BlueWallet/BlueWallet/pull/7991#discussion_r2365636424
+- Instances of buffer a being replaced with Uint8Array
+- Read through the blog that talks about the migration https://sindresorhus.com/blog/goodbye-nodejs-buffer and the discussions https://github.com/sindresorhus/meta/discussions/22
+
+*Non highlight*
+- Created my task tracker on Notion https://www.notion.so/27478b86caaf80aa86bcc68af7554150?v=27478b86caaf80e39c67000ca71e6125
+
+
+*Meta*
+- I am getting most of the background knowledge and context, i need to read abit more and then start working on the code 
