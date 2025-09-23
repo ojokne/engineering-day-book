@@ -76,3 +76,7 @@
 *Non highligt*
 - Noticed https://github.com/BlueWallet/BlueWallet/issues/7973 was fixed by https://github.com/BlueWallet/BlueWallet/pull/8086 and alerted the maintainers
 - Started working on my monthly report
+- Started working on migrating from buffer to uint8Array locally, will create a pr targeting screen first
+
+*End of day*
+- Need to read about buffers and bytes, it has been very challenging following the draft pr and then taking over it, it is still very confusing for me
