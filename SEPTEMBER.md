@@ -62,8 +62,13 @@
 *Meta*
 - I am getting most of the background knowledge and context, i need to read abit more and then start working on the code
 
-# MOnday 22 September 2025
+# Monday 22 September 2025
 
 *Highlight*: COmpleted writing my article and also completed the engineering process document
 - Started researching to work on comment from review https://github.com/BlueWallet/BlueWallet/pull/8032#issuecomment-3315991832
 - 
+
+# Tuesday 23 September 2025
+
+*Highlight*: Implemented feedback from reviewer about overlay not covering full screen and changed animation type to fade
+- Use of Modal will help us remove the `react-native-true-sheet` dependency
