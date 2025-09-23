@@ -60,4 +60,10 @@
 
 
 *Meta*
-- I am getting most of the background knowledge and context, i need to read abit more and then start working on the code 
+- I am getting most of the background knowledge and context, i need to read abit more and then start working on the code
+
+# MOnday 22 September 2025
+
+*Highlight*: COmpleted writing my article and also completed the engineering process document
+- Started researching to work on comment from review https://github.com/BlueWallet/BlueWallet/pull/8032#issuecomment-3315991832
+- 
