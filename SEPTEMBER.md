@@ -72,3 +72,7 @@
 
 *Highlight*: Implemented feedback from reviewer about overlay not covering full screen and changed animation type to fade
 - Use of Modal will help us remove the `react-native-true-sheet` dependency
+
+*Non highligt*
+- Noticed https://github.com/BlueWallet/BlueWallet/issues/7973 was fixed by https://github.com/BlueWallet/BlueWallet/pull/8086 and alerted the maintainers
+- Started working on my monthly report
