@@ -80,3 +80,24 @@
 
 *End of day*
 - Need to read about buffers and bytes, it has been very challenging following the draft pr and then taking over it, it is still very confusing for me
+
+# Wednesday 24 September 2025
+
+*Highlight*: Created draft PR https://github.com/BlueWallet/BlueWallet/pull/8089 that is about moving from Buffer to Uint8Array
+- The github CI failed and I was not able to fix it. Issue is it cant find some function that is exported
+- Requested the author of base draft PR I used to help suggest solutions
+
+*End of day*
+- Finalize report
+
+# Thursday 25 September 2025
+
+*Highlight*
+- Finished working on and submitted my monthly report
+- Author of the draft PR fixed the issue that was causing the CI to fail
+- it was a missing type
+- Converted my draft PR to be reviewed
+
+*End of day*
+- Need to start reading about FDroid issue
+- Prepare to give a talk during bitdevs kampala
