@@ -101,3 +101,21 @@
 *End of day*
 - Need to start reading about FDroid issue
 - Prepare to give a talk during bitdevs kampala
+
+# Monday 29 September
+
+*Highlight*: Send a fix after reviwer commented, he requested for chnages and gave me an idea https://github.com/BlueWallet/BlueWallet/pull/8032#issuecomment-3344791193
+
+
+# Tuesday 30 September
+
+*Highlight*
+- Read throught the PR  the reviwer shared https://github.com/BlueWallet/BlueWallet/pull/7599
+- Looked at the issue regarding coonversiob rates for Uganda Shillings having an issue, was raised during Bitdevs meetup and I said i would fix it
+
+*Non highlight*
+- Informed the maintainers about the exchange rate and my findings that multiple currencies are currently affcted, majorly those using Coindesk
+- proposed a solution to use coinbase api 
+
+*End of day*
+- Create a PR fixing the exchange rate 
