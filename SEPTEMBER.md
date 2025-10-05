@@ -118,4 +118,28 @@
 - proposed a solution to use coinbase api 
 
 *End of day*
-- Create a PR fixing the exchange rate 
+- Create a PR fixing the exchange rate
+
+
+# Saturday 4 October 2025
+
+*Highlight*
+- Researched about `react-native-camera-kit` package and the issue is that it uses ML-Kit which is a proprietory software and cant be audited, FDroid doesnt allow projects using such packages to be listed
+
+*Meta*
+- Might have to create a native module to solve this issue
+- Get camera feed using native module and send to js for decoding
+
+
+# Sunday 5 October 2025
+
+*Hightlight*
+- Created PR https://github.com/BlueWallet/SilentPayments/pull/24 in SilentPayments to remove `Buffer`
+- Created PR https://github.com/BlueWallet/BlueWallet/pull/8106 to fix issue of background color on seedwords and closed https://github.com/BlueWallet/BlueWallet/pull/8032
+
+*Meta*
+- Had indicated I could not remove all the Buffer because Uint8Array did not have `readUint32LE` but a contributor gave me the function so will use it and update my PR
+
+*End of day*
+- Reflect on grant proposal and see work on next
+- Fix a few issues on BlueWallet as I brainstorm how to fix FDroid issue
