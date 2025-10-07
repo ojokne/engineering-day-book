@@ -143,3 +143,20 @@
 *End of day*
 - Reflect on grant proposal and see work on next
 - Fix a few issues on BlueWallet as I brainstorm how to fix FDroid issue
+
+
+# Monday 6 October
+
+*Highlight*
+- Reviewer requested for changes on my PR https://github.com/BlueWallet/BlueWallet/pull/8105 and I worked on all he requested
+- Also comment on  https://github.com/BlueWallet/SilentPayments/pull/24 asking if the person who shared code for `readUint32` already as implementations for `readUint16LE`
+
+# Tuesday 7 October
+
+*Highlight*
+- Worked on the request for review for https://github.com/BlueWallet/SilentPayments/pull/24 from a reviewer
+- Looked at npm warnings and the packages causing everything
+
+*Non highlight*
+- Attended bi weekly standup meeting with the rest of Btrust grantees
+
