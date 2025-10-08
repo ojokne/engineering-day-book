@@ -160,3 +160,22 @@
 *Non highlight*
 - Attended bi weekly standup meeting with the rest of Btrust grantees
 
+
+# Wednesday 8 October 2025
+
+*Highlight*
+- Tested out paulmillr/qr package
+- Worked well but coulf not decode eci qr codes (ECI (Extended Channel Interpretation))
+- Want to test more before I open an issue
+- Also checkout the jsQR package(https://github.com/cozmo/jsQR?tab=readme-ov-file)
+
+*Non-highlight*
+- Tried creating native module to get camera feed and send for decoding
+- Was not succesful, will keep testing and trying out
+
+*Meta*
+- Most stressfull day, native module did not work out, been stuck trying different things whole day
+
+*End of day*
+- Keep trying the native module
+
