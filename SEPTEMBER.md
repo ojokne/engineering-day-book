@@ -179,3 +179,15 @@
 *End of day*
 - Keep trying the native module
 
+
+# Thursday 9 October 2025
+
+*Highlight*
+- Got the native module to work at 5 fps
+- Was able to scan some qr codes
+- package doesnt scan ECI qr codes (need to test more)
+
+*Meta*
+- Finally got it to work
+- Need to test alot
+- Need to try integrating with BlueWallet
